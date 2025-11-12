@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 👋 Hi, I'm Shaik Baji  
-🎯 **Aspiring Data Analyst | Machine Learning Enthusiast | Python | SQL | Power BI | Tableau**
+🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Tableau**
 
 📍 Guntur, Andhra Pradesh  
 📧 skbajisharif123@gmail.com  
