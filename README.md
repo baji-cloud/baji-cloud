@@ -25,27 +25,47 @@ I enjoy working with **Python, SQL, and visualization tools like Power BI & Tabl
 
 ## 🚀 Projects  
 
+---
+
 ### 🎬 Netflix Power BI Dashboard  
+
+#### 🔧 Tools  
+<img src="RAW_URL_POWERBI" width="50"/>  
+<img src="RAW_URL_EXCEL" width="50"/>  
+
 - Designed an **interactive dashboard** analyzing **6K+ Netflix titles** from 20+ countries, visualizing genre and rating trends.  
 - Improved data consistency by **35%** and refresh speed by **20%** through Power Query transformation.  
 - Enhanced decision-making accuracy by **25%** with visual storytelling and clear KPIs.  
-📊 *Tools: Power BI, Excel*
 
 ---
 
 ### 🎵 Spotify Data Analysis  
+
+#### 🔧 Tools  
+<img src="RAW_URL_SQL" width="50"/>  
+<img src="RAW_URL_EXCEL" width="50"/>  
+<img src="RAW_URL_POWERBI" width="50"/>  
+
 - Conducted **SQL-based analysis** of 15K+ tracks to identify top artists and streaming patterns.  
-- Optimized SQL queries, improving runtime efficiency by **40%** and collaboration effectiveness.  
+- Optimized SQL queries, improving runtime efficiency by **40%**.  
 - Built Power BI dashboards to visualize KPIs for better insights.  
-🛠️ *Tools: SQL, Excel, Power BI*
 
 ---
 
 ### 💳 Fraud Payment Prediction  
-- Built a **Random Forest model** on 6M+ transactions, achieving **93% AUC-ROC** and improving fraud detection accuracy by **25%**.  
+
+#### 🔧 Tools  
+<img src="RAW_URL_PYTHON" width="50"/>  
+<img src="RAW_URL_PANDAS" width="50"/>  
+<img src="RAW_URL_NUMPY" width="50"/>  
+<img src="RAW_URL_SKLEARN" width="50"/>  
+<img src="RAW_URL_MATPLOTLIB" width="50"/>  
+<img src="RAW_URL_SEABORN" width="50"/>  
+
+- Built a **Random Forest model** on 6M+ transactions, achieving **93% AUC-ROC**.  
 - Applied **SMOTE** to handle class imbalance and reduce false negatives by **18%**.  
 - Demonstrated strong analytical thinking, adaptability, and teamwork.  
-📈 *Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn*
+
 
 
 
