@@ -23,6 +23,64 @@ I’ve worked on projects involving **data analysis, predictive modeling, and da
 - **Microsoft Suite:** Excel, Word  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 
+<h2>🧩 Technical Skills</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+    <!-- Python, SQL, C -->
+    <div style="width: 150px; text-align: center;">
+        <img src="ICON_URL_PYTHON" width="80">
+        <p><b>Python</b><br>SQL, C</p>
+    </div>
+
+    <!-- PostgreSQL, MySQL -->
+    <div style="width: 150px; text-align: center;">
+        <img src="ICON_URL_POSTGRES" width="80">
+        <p><b>PostgreSQL</b><br>MySQL</p>
+    </div>
+
+    <!-- Power BI & Tableau -->
+    <div style="width: 150px; text-align: center;">
+        <img src="ICON_URL_POWERBI" width="80">
+        <p><b>Power BI</b><br>Tableau</p>
+    </div>
+
+    <!-- Microsoft Excel & Word -->
+    <div style="width: 150px; text-align: center;">
+        <img src="ICON_URL_EXCELWORD" width="80">
+        <p><b>Excel</b><br>Word</p>
+    </div>
+
+</div>
+
+<hr>
+
+<!-- Optionally list individual icons below -->
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+
+    <div style="width: 120px; text-align: center;">
+        <img src="ICON_URL_EXCEL" width="70">
+        <p>Excel</p>
+    </div>
+
+    <div style="width: 120px; text-align: center;">
+        <img src="ICON_URL_WORD" width="70">
+        <p>Word</p>
+    </div>
+
+    <div style="width: 120px; text-align: center;">
+        <img src="ICON_URL_POWERBI2" width="70">
+        <p>Power BI</p>
+    </div>
+
+    <div style="width: 120px; text-align: center;">
+        <img src="ICON_URL_TABLEAU" width="70">
+        <p>Tableau</p>
+    </div>
+
+</div>
+
 ---
 
 ## 💼 Internships  
@@ -55,30 +113,7 @@ I’ve worked on projects involving **data analysis, predictive modeling, and da
 - Demonstrated strong analytical thinking, adaptability, and teamwork.  
 📈 *Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn*
 
----
 
-## 🏅 Certifications  
-- **SQL** – Simplilearn, HackerRank  
-- **Power BI** – Simplilearn  
-- **Data Analytics with Excel** – Mind Luster  
-- **Preliminary English Test (PET)** – Cambridge Certificate  
-
----
-
-## 🧩 Achievements & Activities  
-- Showcased **IoT-based automation systems** at Engineers Expo.  
-- Competed in **district-level badminton tournaments**.  
-- Built **self-directed data analytics projects**, demonstrating continuous learning.  
-
----
-
-## 💬 Soft Skills  
-Analytical Thinking | Problem Solving | Team Collaboration | Communication | Adaptability | Time Management | Continuous Learning  
-
----
-
-## 🌍 Languages  
-English | Telugu | Hindi | Urdu  
 
 ---
 
