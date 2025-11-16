@@ -23,63 +23,54 @@ I’ve worked on projects involving **data analysis, predictive modeling, and da
 - **Microsoft Suite:** Excel, Word  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 
-<h2>🧩 Technical Skills</h2>
+## 🧩 Technical Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="IMAGE_URL_PYTHON" width="70"/><br>
+      <b>Python</b><br>SQL, C
+    </td>
+    <td align="center" width="150">
+      <img src="IMAGE_URL_POSTGRES" width="70"/><br>
+      <b>PostgreSQL</b><br>MySQL
+    </td>
+    <td align="center" width="150">
+      <img src="IMAGE_URL_POWERBI" width="70"/><br>
+      <b>Power BI</b><br>Tableau
+    </td>
+    <td align="center" width="150">
+      <img src="IMAGE_URL_EXCELWORD" width="70"/><br>
+      <b>Excel</b><br>Word
+    </td>
+  </tr>
+</table>
 
-    <!-- Python, SQL, C -->
-    <div style="width: 150px; text-align: center;">
-        <img src="ICON_URL_PYTHON" width="80">
-        <p><b>Python</b><br>SQL, C</p>
-    </div>
+---
 
-    <!-- PostgreSQL, MySQL -->
-    <div style="width: 150px; text-align: center;">
-        <img src="ICON_URL_POSTGRES" width="80">
-        <p><b>PostgreSQL</b><br>MySQL</p>
-    </div>
+### 🔹 Individual Tools (Optional)
 
-    <!-- Power BI & Tableau -->
-    <div style="width: 150px; text-align: center;">
-        <img src="ICON_URL_POWERBI" width="80">
-        <p><b>Power BI</b><br>Tableau</p>
-    </div>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="IMAGE_URL_EXCEL" width="60"/><br>
+      Excel
+    </td>
+    <td align="center" width="120">
+      <img src="IMAGE_URL_WORD" width="60"/><br>
+      Word
+    </td>
+    <td align="center" width="120">
+      <img src="IMAGE_URL_POWERBI2" width="60"/><br>
+      Power BI
+    </td>
+    <td align="center" width="120">
+      <img src="IMAGE_URL_TABLEAU" width="60"/><br>
+      Tableau
+    </td>
+  </tr>
+</table>
 
-    <!-- Microsoft Excel & Word -->
-    <div style="width: 150px; text-align: center;">
-        <img src="ICON_URL_EXCELWORD" width="80">
-        <p><b>Excel</b><br>Word</p>
-    </div>
-
-</div>
-
-<hr>
-
-<!-- Optionally list individual icons below -->
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-
-    <div style="width: 120px; text-align: center;">
-        <img src="ICON_URL_EXCEL" width="70">
-        <p>Excel</p>
-    </div>
-
-    <div style="width: 120px; text-align: center;">
-        <img src="ICON_URL_WORD" width="70">
-        <p>Word</p>
-    </div>
-
-    <div style="width: 120px; text-align: center;">
-        <img src="ICON_URL_POWERBI2" width="70">
-        <p>Power BI</p>
-    </div>
-
-    <div style="width: 120px; text-align: center;">
-        <img src="ICON_URL_TABLEAU" width="70">
-        <p>Tableau</p>
-    </div>
-
-</div>
 
 ---
 
