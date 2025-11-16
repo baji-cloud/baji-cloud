@@ -10,9 +10,7 @@
 
 ## 🧠 About Me  
 I’m an **Engineering student** passionate about uncovering insights from data and building impactful analytics solutions.  
-I enjoy working with **Python, SQL, and visualization tools like Power BI & Tableau** to solve problems, tell stories with data, and drive data-informed decisions.  
-
-I’ve worked on projects involving **data analysis, predictive modeling, and dashboarding**, translating raw datasets into clear, actionable insights.
+I enjoy working with **Python, SQL, and visualization tools like Power BI & Tableau** to solve problems, tell stories with data, and drive data-informed decisions. I’ve worked on projects involving **data analysis, predictive modeling, and dashboarding**, translating raw datasets into clear, actionable insights.
 
 ---
 
@@ -22,61 +20,6 @@ I’ve worked on projects involving **data analysis, predictive modeling, and da
 - **Visualization Tools:** Power BI, Tableau, Excel  
 - **Microsoft Suite:** Excel, Word  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-
-## 🧩 Technical Skills
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="IMAGE_URL_PYTHON" width="70"/><br>
-      <b>Python</b><br>SQL, C
-    </td>
-    <td align="center" width="150">
-      <img src="IMAGE_URL_POSTGRES" width="70"/><br>
-      <b>PostgreSQL</b><br>MySQL
-    </td>
-    <td align="center" width="150">
-      <img src="IMAGE_URL_POWERBI" width="70"/><br>
-      <b>Power BI</b><br>Tableau
-    </td>
-    <td align="center" width="150">
-      <img src="IMAGE_URL_EXCELWORD" width="70"/><br>
-      <b>Excel</b><br>Word
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔹 Individual Tools (Optional)
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="IMAGE_URL_EXCEL" width="60"/><br>
-      Excel
-    </td>
-    <td align="center" width="120">
-      <img src="IMAGE_URL_WORD" width="60"/><br>
-      Word
-    </td>
-    <td align="center" width="120">
-      <img src="IMAGE_URL_POWERBI2" width="60"/><br>
-      Power BI
-    </td>
-    <td align="center" width="120">
-      <img src="IMAGE_URL_TABLEAU" width="60"/><br>
-      Tableau
-    </td>
-  </tr>
-</table>
-
-
----
-
-## 💼 Internships  
-- **Cyber Security Intern – NASSCOM FutureSkills Prime** *(Feb 2025 – May 2025)*  
-- **Data Science & Machine Learning Intern – YBI Foundation** *(Jun 2024 – Jul 2024)*  
 
 ---
 
