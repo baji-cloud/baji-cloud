@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 About Me  
-I’m an **Engineering student** passionate about uncovering insights from data and building impactful analytics solutions.  
+I’m an **Engineering Graduate** passionate about uncovering insights from data and building impactful analytics solutions.  
 I enjoy working with **Python, SQL, and visualization tools like Power BI & Tableau** to solve problems, tell stories with data, and drive data-informed decisions. I’ve worked on projects involving **data analysis, predictive modeling, and dashboarding**, translating raw datasets into clear, actionable insights.
 
 ---
